@@ -1,0 +1,2 @@
+本期末專題為完成一個小型的CPU
+完成基本的ALU、load、store、pipeline等功能
